@@ -44,12 +44,3 @@ yellowcub
 [cGitHub]: https://github.com/topics/c
 [matlabGitHub]: https://github.com/topics/matlab
 [kitty]: https://sw.kovidgoyal.net/kitty/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/yellowcub
-[youtube]: https://youtube.com/yellowcub
-[instagram]: https://instagram.com/yellowcub
-[linkedin]: https://linkedin.com/in/yellowcub
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
