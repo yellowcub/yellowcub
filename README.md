@@ -14,8 +14,7 @@ yellowcub
   - Photographing everything (except portraitures) 📸
   - Making noise on my guitars 🎸
   - Playing classic video games - especially 8-bit 👾
-- I may live as a Buckeye, but am true to my Hoosier/Briar roots.
-- I love writing data algorithms and command line codes as needed, but I am NOT a developer
+  - 3D Printing
 
 ### Languages and Tools:
 
